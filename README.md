@@ -1,7 +1,10 @@
 # ML ZoomCamp Homework Repository
 <div align="center">
-  <img src="https://github.com/DataTalksClub/machine-learning-zoomcamp/raw/master/images/zoomcamp.jpg" alt="ML ZoomCamp Logo">
+  <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp">
+    <img src="https://github.com/afsharino/machine-learning-zoomcamp/blob/main/images/zoomcamp-logo.png" alt="ML ZoomCamp Logo">
+  </a>
 </div>
+<!--https://github.com/DataTalksClub/machine-learning-zoomcamp/raw/master/images/zoomcamp.jpg-->
 Welcome to my ML ZoomCamp Homework Repository! This repository contains my solutions to the assignments and projects from the ML ZoomCamp, a comprehensive machine learning boot camp.
 
 ## Table of Contents
