@@ -28,20 +28,20 @@ In this repository, you will find my solutions to various homework assignments a
 
 The repository is organized as follows:
 
-- **Introduction to Machine Learning**: [Description of Introduction to Machine Learning Homework]
-- **Machine Learning for Regression**: [Description of Machine Learning for Regression Homework]
-- **Machine Learning for Classification**: [Description of Machine Learning for Classification Homework]
-- **Evaluation Metrics for Classification**: [Description of Evaluation Metrics for Classification Homework]
-- **Deploying Machine Learning Models**: [Description of Deploying Machine Learning Models Homework]
-- **Decision Trees and Ensemble Learning**: [Description of Decision Trees and Ensemble Learning Homework]
-- **Neural Networks and Deep Learning**: [Description of Neural Networks and Deep Learning Homework]
-- **Serverless Deep Learning**: [Description of Serverless Deep Learning Homework]
-- **Kubernetes and TensorFlow Serving**: [Description of Kubernetes and TensorFlow Serving Homework]
-- **Midterm Project**: [Description of Midterm Project]
-- **Capstone Project 1**: [Description of Capstone Project 1]
-- **Article**: [Description of the Article]
-- **Capstone Project 2**: [Description of Capstone Project 2]
-- **Image Classification Competition**: [Description of the Image Classification Competition]
+- **Introduction to Machine Learning**
+- **Machine Learning for Regression**
+- **Machine Learning for Classification**
+- **Evaluation Metrics for Classification**
+- **Deploying Machine Learning Models**
+- **Decision Trees and Ensemble Learning**
+- **Neural Networks and Deep Learning**
+- **Serverless Deep Learning**
+- **Kubernetes and TensorFlow Serving**
+- **Midterm Project**
+- **Capstone Project 1**
+- **Article**
+- **Capstone Project 2**
+- **Image Classification Competition**
 
 Feel free to explore each folder to view my code, documentation, and any relevant resources.
 
@@ -51,6 +51,6 @@ If you're interested in my solutions, you can simply navigate to the specific ho
 
 ## Contact Information
 
-If you have any questions, feedback, or would like to connect, you can reach me at [your email address or preferred contact information].
+If you have any questions, feedback, or would like to connect, you can reach me at [telegram](https://t.me/afsharino "afsharino-telegram").
 
-Thank you for visiting my ML ZoomCamp Homework Repository!
+made with love by [afsharino](https://github.com/afsharino "afsharino") & [ChatGPT](https://chat.openai.com/ "ChatGPT") :purple_heart:
