@@ -29,7 +29,7 @@ In this repository, you will find my solutions to various homework assignments a
 The repository is organized as follows:
 
 - [**Introduction to Machine Learning**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/01.%20Introduction%20to%20Machine%20Learning)
-- **Machine Learning for Regression**
+- [**Machine Learning for Regression**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/02.%20Machine%20Learning%20for%20Regression)
 - **Machine Learning for Classification**
 - **Evaluation Metrics for Classification**
 - **Deploying Machine Learning Models**
