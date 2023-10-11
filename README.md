@@ -30,8 +30,8 @@ The repository is organized as follows:
 
 - [**Introduction to Machine Learning**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/01.%20Introduction%20to%20Machine%20Learning)
 - [**Machine Learning for Regression**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/02.%20Machine%20Learning%20for%20Regression)
-- **Machine Learning for Classification**
-- **Evaluation Metrics for Classification**
+- [**Machine Learning for Classification**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/03.%20Machine%20Learning%20for%20Classification)
+- [**Evaluation Metrics for Classification**](https://github.com/afsharino/machine-learning-zoomcamp/tree/main/04.%20Evaluation%20Metrics%20for%20Classification)
 - **Deploying Machine Learning Models**
 - **Decision Trees and Ensemble Learning**
 - **Neural Networks and Deep Learning**
