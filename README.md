@@ -1,7 +1,7 @@
 # ML ZoomCamp Homework Repository
 <div align="center">
   <a href="https://github.com/DataTalksClub/machine-learning-zoomcamp">
-    <img src="https://github.com/afsharino/machine-learning-zoomcamp/blob/main/images/zoomcamp-logo.png" alt="ML ZoomCamp Logo">
+    <img src="https://github.com/afsharino/DataTalksClub/blob/main/images/datatalks-logo.png" alt="DataTalks ZoomCamp Logo">
   </a>
 </div>
 <!--https://github.com/DataTalksClub/machine-learning-zoomcamp/raw/master/images/zoomcamp.jpg-->
